@@ -3,5 +3,6 @@ public class GitCool {
         System.out.println("Im learning GIT");
         System.out.println("It's easier than I though");
         System.out.println("I need to keep practicing");
+        System.out.println("Bla bla bla =D");
     }
 }
