@@ -7,5 +7,8 @@ public class GitCool {
         // we have added our GitHub account under Intelij
         //make sure to click on apply and click on the save
 
+        //we share it in GitHub
+
+
     }
 }
